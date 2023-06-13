@@ -1,1 +1,0 @@
-print("GO to the new story");
